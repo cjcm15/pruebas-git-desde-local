@@ -6,3 +6,4 @@ pruebas-git-desde-local
 3) Subo todo a GitHub.
 4) Creo en README en GitHub.
 5) Pull al README para tenerlo en local
+6) Aparecio README en local
